@@ -11,7 +11,7 @@ This is a basic interactive quiz website where users can test their knowledge th
 ## Technologies Used:
 - **HTML**: Structure of the webpage.
 - **CSS**: Styling for the website to make it visually appealing.
-- **JavaScript**: Logic for the quiz functionality and user interactions.
+- **JavaScript**: Logic for the quiz functionality and user interactions. 
 
 ## Live Demo:
 You can try the app live [here](https://sidhdhika-banu.github.io/quiz-app/).
